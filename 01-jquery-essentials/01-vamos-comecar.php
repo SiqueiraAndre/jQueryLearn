@@ -10,6 +10,6 @@
 
     <script src="../js/angular.js"></script>
     <script src="../js/jquery.js"></script>
-    <script src="script.js"></script>
+    <script src="script_01.js"></script>
 </body>
 </html>
