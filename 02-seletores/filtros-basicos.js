@@ -8,7 +8,7 @@ $(function () {
     //O ÚLTIMO NA LISTA
     $("p:last").css("color", "red");
 
-    //ELEMENTOS PAREAS
+    //ELEMENTOS PARES
     $("p:even").css("background", "#eee");
 
     //ELEMENTOS ÍMPARES
